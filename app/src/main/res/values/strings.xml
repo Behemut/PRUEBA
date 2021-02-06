@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Problemas-Lab</string>
+    <string name="ingresar_lado_b">Ingresar Lado B</string>
+    <string name="cantidad">Cantidad</string>
+</resources>
